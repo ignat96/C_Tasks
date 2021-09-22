@@ -2,7 +2,7 @@
 Решения задач по Си.
 Для проверки работы программ используем компилятор online gdb.
 
-СсылRи на рабочий код:
+Ссылки на рабочий код:
 
 - 1  -        https://onlinegdb.com/sn6GG7NPp 
 - 2  -        https://onlinegdb.com/UTKxFmhXZ
