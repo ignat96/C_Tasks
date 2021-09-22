@@ -4,7 +4,7 @@
 
 Ссыкли на рабочий код:
 
-1  -        https://onlinegdb.com/sn6GG7NPp
+1  -        https://onlinegdb.com/sn6GG7NPp \n
 2  -        https://onlinegdb.com/UTKxFmhXZ
 3  -        https://onlinegdb.com/vbmtoBGus
 4  -        https://onlinegdb.com/W96m1sDCm
