@@ -11,8 +11,6 @@ int main()
 {
     double a=4, b=5, c=6; // коэф-енты ур-я
     double dis, x1, x2;
-    printf("Введите коэфииценты a b c:\n"); 
-    
 
     if (dis < 0) { printf("Корней нет."); }
     else if (dis == 0) { 
