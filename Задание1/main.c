@@ -10,8 +10,9 @@
 int main()
 {
     double a=4, b=5, c=6; // коэф-енты ур-я
-    double dis, x1, x2;
+    double x1, x2;
 
+    double dis = pow(b, 2) - 4*a*c;
     if (dis < 0) { printf("Корней нет."); }
     else if (dis == 0) { 
         x1 = -1 * (b / (2 * a)); 
