@@ -48,7 +48,7 @@ int main()
             B[i][j] = 0;
             for (k = 0; k < 2; k++)
             {
-                B[i][j] += + A2[i][k] * A2[k][j]; 
+                B[i][j] += A2[i][k] * A2[k][j]; 
             }
         }
     }
